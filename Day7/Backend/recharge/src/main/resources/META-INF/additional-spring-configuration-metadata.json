@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "recharge.jsonwebtoken.secret.key",
+    "type": "java.lang.String",
+    "description": "A description for 'recharge.jsonwebtoken.secret.key'"
+  },
+  {
+    "name": "recharge.jsonwebtoken.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'recharge.jsonwebtoken.expiration'"
+  }
+]}
